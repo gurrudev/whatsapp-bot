@@ -12,7 +12,7 @@ from aiogram.utils import executor
 
 
 def telegram():  
-    bot = aiogram.Bot(token='5545104591:AAEB1VHXnMnvGE5UrWY-gNNrZq9_7p72P_U')
+    bot = aiogram.Bot(token='API_KEY')
     dsp = Dispatcher(bot)
 
     # Define a function to handle messages
