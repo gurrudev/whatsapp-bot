@@ -8,7 +8,7 @@ Step 2: Install Flask and Twilio
         - pip install flask
         - pip install twilio
         
-Step 3: Install Ngrok
+Step 3: Install Ngrok 
         Type command in prompt
         - ngrok http 'PORT_NO' 
            ~ example: ngrok http 5000
