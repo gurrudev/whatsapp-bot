@@ -13,8 +13,8 @@ $ pip install twilio
         
 3️⃣ Install Ngrok 
         Type command in prompt
-        - ngrok http 'PORT_NO' 
-~ example: 
+        - { ngrok http 'PORT_NO' } 
+~ example:↴ 
 ```sh
 $ ngrok http 5000
 ```
