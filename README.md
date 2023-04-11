@@ -3,7 +3,7 @@
 
 
 1️⃣ Create account on Twilio
-        - select Whatsapp
+        
         
 2️⃣ Install Flask and Twilio
 ```sh
@@ -14,7 +14,7 @@ $ pip install twilio
 3️⃣ Install Ngrok 
         Type command in prompt
         - ngrok http 'PORT_NO' 
-           ~ example: 
+~ example: 
 ```sh
 $ ngrok http 5000
 ```
