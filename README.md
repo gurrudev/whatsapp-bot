@@ -6,8 +6,10 @@
         - select Whatsapp
         
 2️⃣ Install Flask and Twilio
-        - pip install flask
-        - pip install twilio
+```python
+pip install flask
+pip install twilio
+```
         
 3️⃣ Install Ngrok 
         Type command in prompt
