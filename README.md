@@ -6,7 +6,7 @@
         - select Whatsapp
         
 2️⃣ Install Flask and Twilio
-```python
+```sh
 pip install flask
 pip install twilio
 ```
