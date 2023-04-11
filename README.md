@@ -18,7 +18,7 @@ $ pip install twilio
 ```sh
 $ ngrok http 5000
 ```
-        - copy link 
+- copy link 
            ~ example: https://551b-2409-4081-1093-5e63-b4df-bdfb-7e6a-db42.in.ngrok.io
            ~ paste in the 'When a message comes in' ![image](https://user-images.githubusercontent.com/80522156/211614146-cdd675a6-9d7c-432a-802b-6bb752a669b2.png)
            ~ the link should be : https://551b-2409-4081-1093-5e63-b4df-bdfb-7e6a-db42.in.ngrok.io/sms
